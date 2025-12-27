@@ -6,6 +6,8 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Jiale
 middle_name:
 last_name: Hou
+contact_note: >
+  You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -14,6 +16,7 @@ footer_text: >
 keywords: social meida, international news, communication theory, open science # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: #️⃣ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+
 url: https://jiale-hou.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
@@ -25,8 +28,8 @@ back_to_top: true # set to false to disable the back to top button
 # -----------------------------------------------------------------------------
 
 # code highlighter theme
-highlight_theme_light: github   # https://github.com/jwarby/jekyll-pygments-themes
-highlight_theme_dark: native    # https://github.com/jwarby/jekyll-pygments-themes
+highlight_theme_light: github # https://github.com/jwarby/jekyll-pygments-themes
+highlight_theme_dark: native # https://github.com/jwarby/jekyll-pygments-themes
 
 # repo color theme
 repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
@@ -66,40 +69,6 @@ max_width: 930px
 serve_og_meta: false # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
-
-# -----------------------------------------------------------------------------
-# Social integration
-# -----------------------------------------------------------------------------
-
-github_username: Jiale-Hou # your GitHub user name
-gitlab_username: # your GitLab user name
-twitter_username: # your Twitter handle
-linkedin_username: jiale-hou-b1c526396 # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
-semanticscholar_id: # your Semantic Scholar ID
-orcid_id: 0009-0004-6384-4558 # your ORCID ID
-medium_username: # your Medium username
-quora_username: # your Quora username
-medium_username: # your Medium username
-quora_username: # your Quora username
-publons_id: # your ID on Publons F-2946-2011 
-research_gate_profile: Jiale-Hou-9 # your profile on ResearchGate
-blogger_url: # your blogger URL
-work_url: # work page URL
-keybase_username: # your keybase user name
-wikidata_id: # your wikidata id
-dblp_url: # your DBLP profile url
-stackoverflow_id: # your stackoverflow id 6318684 
-kaggle_id: # your kaggle id
-lastfm_id: # your lastfm id
-spotify_id: # your spotify id
-pinterest_id: # your pinterest id
-unsplash_id: # your unsplash id
-instagram_id: # your instagram id
-facebook_id: # your facebook id
-discord_id: # your discord id (18-digit unique numerical identifier)
-
-contact_note: > #You can even add a little note about which of these is the best way to reach you.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
