@@ -6,7 +6,7 @@ subtitle: <a href='https://www.apa.org/topics/social-media-internet'>social medi
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <center>Dublin based</center>
